@@ -5,7 +5,7 @@
 
 # Dirs and files
 
-- [Satellite images -  (Jupyter Notebook)](src/classication_satellite_images.ipynb)
+- [Satellite images -  (Jupyter Notebook)](nbs/classication_satellite_images.ipynb)
 
 
 # Author
